@@ -1,21 +1,23 @@
 public class kadane{
 
-public static void kadan(int  arr[]){
-int ms=Integer.MIN_VALUE;
-int cs=0;
-for(int i=0; i<arr.length;i++){
-    cs=cs+arr[i];
-    if(cs<0){
-        cs=0;
+    public static int arrsu(int arr[]){
+int maxsum=arr[0];
+int currsum=arr[0];
+for(int i=0;i<arr.length;i++){
+     currsum=Math.max(arr[i],currsum+arr[i]);
+     maxsum=Math.max(currsum,maxsum);
+
+
+}
+return maxsum;
+
     }
-ms=Math.max(cs,ms);
-}
-System.out.print("our max subarray sum is "+ms);
-}
 
-public static void main(String args[]){
-    int arr[]={1,2,3,4,5,6,7,8,9};
-   kadan(arr);
-}
+    public static void main(String args[]){
 
+     int arr[]={1,-2,3,5,-3,7,9,0,6,-3,24,-67};
+
+int result =arrsu(arr);
+System.out.println(result);
+    }
 }
