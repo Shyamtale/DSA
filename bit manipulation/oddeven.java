@@ -2,7 +2,7 @@ public class oddeven {
     public static void oddeve(int n ){
         int bitmask=1;
         if((n & bitmask)==0){
-            //evennumber
+          
             System.out.println("even number");
         }else{
             System.out.println("odd number");
