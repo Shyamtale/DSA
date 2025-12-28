@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shyamtale/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shyamtale/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
