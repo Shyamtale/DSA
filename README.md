@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shyamtale/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shyamtale/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamtale/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Shyamtale/DSA/tree/master/0485-max-consecutive-ones) |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
@@ -13,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shyamtale/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamtale/DSA/tree/master/0217-contains-duplicate) |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamtale/DSA/tree/master/0217-contains-duplicate) |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
@@ -44,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shyamtale/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
