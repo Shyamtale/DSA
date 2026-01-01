@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamtale/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Shyamtale/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Shyamtale/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shyamtale/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shyamtale/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamtale/DSA/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Shyamtale/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2402-meeting-rooms-iii](https://github.com/Shyamtale/DSA/tree/master/2402-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shyamtale/DSA/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shyamtale/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
